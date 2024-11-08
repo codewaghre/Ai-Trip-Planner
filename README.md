@@ -30,7 +30,7 @@ Welcome to **RAHi**, your personalized AI-powered trip planner! With RAHi, plann
 
 ## Contact 📧
 
-For questions or suggestions, reach out to me at [your-annifind010@gmail.com.com](mailto:your-email@example.com).
+For questions or suggestions, reach out to me at [waghreabhishek@gmail.com](mailto:your-waghreabhishek@gmail.com).
 
 ---
 
