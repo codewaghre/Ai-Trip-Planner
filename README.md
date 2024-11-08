@@ -10,6 +10,15 @@ Welcome to **RAHi**, your personalized AI-powered trip planner! With RAHi, plann
 - **Google Places Integration**: Effortlessly search for destinations and gather information on the go.
 - **Social Sharing**: Share your trip details with friends and family on social media platforms.
 - **Secure Login**: Sign in safely using Google authentication.
+  
+  ![Screenshot (293)](https://github.com/user-attachments/assets/10c153e5-6cf6-4b2f-aec9-36371b79bf43)
+
+![airbnb-ai-home-5](https://github.com/user-attachments/assets/a3c594b4-fef8-43dc-9165-a1b70ba69600)
+
+  ![airbnb-ai-home-1](https://github.com/user-attachments/assets/518aca43-de06-4adf-8171-34e634c4d71f)
+  
+![airbnb-ai-home-2](https://github.com/user-attachments/assets/91af929f-b024-4649-9c34-7ee1bb485def)
+
 
 ## Getting Started 🏁
 
